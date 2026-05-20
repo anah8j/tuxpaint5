@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260520054329VRNFUX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260520054329JABKDR</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Tux Paint con 3ero de Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Educación Artística</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Teresa Hobdell</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este trabajo trata del uso de Tux Paint en  la asignatura de Educación Artística para tercero de primaria.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779116066810</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpbbrqv6-25cuuob5a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbbrqv6-25cuuob5a</odePageId>
+      <odeBlockId>block-1777903499373-50u2wmsk7</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbbrqv6-25cuuob5a</odePageId>
+          <odeBlockId>block-1777903499373-50u2wmsk7</odeBlockId>
+          <odeIdeviceId>idevice-1777903499370-7b6b6lp9j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><strong>Título descriptivo</strong><br />Descubrimos “ Tux Paint”</p>
+<p><strong>Centro de interés o temática</strong><br />Educación Artística. </p>
+<p><strong>Nivel al que va dirigido.</strong><br />Tercero de Primaria</p>
+<p><strong>Temporalización aproximada.</strong><br />Aproximadamente 4 sesiones en mayo</p>
+<p><strong>Materia o materias implicadas</strong>.<br />Educación Artística</p>
+<p><strong>Idioma.</strong><br />Español e inglés</p>
+<p>Descripción general de lo que se pretende que el alumnado aprenda o trabaje.<br />El primer objetivo será investigar sobre las opciones que nos aporta este programa  para crear un dibujo.</p>
+<p>El segundo objetivo será realizar un dibujo. La temática será libre ( podrán elegir su animal preferido, su película o libro preferido, un paisaje de un sitio que les guste…). Los alumnos trabajarán o en parejas o en pequeños grupos.</p>
+<p><br /><strong>Justificación de la elección</strong></p>
+<p>Mi objetivo es que los niños realicen una actividad artística y sencilla con los ordenadores ya que es algo diferente que les motiva. Este programa parece adecuado para esta edad y por tanto considero que puede resultarles inspirador.</p>
+<p>Con respecto a la rutina de pensamiento, como ya hemos realizado una actividad muy básica en Educación Artística  quisiera realizar otra un poco más elaborada ya que el resultado fue positivo. De la experiencia aprendida, tengo que tener en cuenta el estado general de los portátiles ( que estén cargados). Soy consciente de que puede llevar tiempo instalar el programa en varios ordenadores pero si se ayudan entre ellos será más fácil</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777903499370-7b6b6lp9j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><strong>Título descriptivo</strong><br />Descubrimos “ Tux Paint”</p>\n<p><strong>Centro de interés o temática</strong><br />Educación Artística. </p>\n<p><strong>Nivel al que va dirigido.</strong><br />Tercero de Primaria</p>\n<p><strong>Temporalización aproximada.</strong><br />Aproximadamente 4 sesiones en mayo</p>\n<p><strong>Materia o materias implicadas</strong>.<br />Educación Artística</p>\n<p><strong>Idioma.</strong><br />Español e inglés</p>\n<p>Descripción general de lo que se pretende que el alumnado aprenda o trabaje.<br />El primer objetivo será investigar sobre las opciones que nos aporta este programa  para crear un dibujo.</p>\n<p>El segundo objetivo será realizar un dibujo. La temática será libre ( podrán elegir su animal preferido, su película o libro preferido, un paisaje de un sitio que les guste…). Los alumnos trabajarán o en parejas o en pequeños grupos.</p>\n<p><br /><strong>Justificación de la elección</strong></p>\n<p>Mi objetivo es que los niños realicen una actividad artística y sencilla con los ordenadores ya que es algo diferente que les motiva. Este programa parece adecuado para esta edad y por tanto considero que puede resultarles inspirador.</p>\n<p>Con respecto a la rutina de pensamiento, como ya hemos realizado una actividad muy básica en Educación Artística  quisiera realizar otra un poco más elaborada ya que el resultado fue positivo. De la experiencia aprendida, tengo que tener en cuenta el estado general de los portátiles ( que estén cargados). Soy consciente de que puede llevar tiempo instalar el programa en varios ordenadores pero si se ayudan entre ellos será más fácil</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbbrqv8-gz814weno</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbbrqv8-gz814weno</odePageId>
+      <odeBlockId>block-1777906156978-zxklxapj8</odeBlockId>
+      <blockName>Asociaciamos Tareas a Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbbrqv8-gz814weno</odePageId>
+          <odeBlockId>block-1777906156978-zxklxapj8</odeBlockId>
+          <odeIdeviceId>idevice-1777906156972-876p85brx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1XhOHVLadL_p8UJGnp_dZDoMGPXwiUbVVagSgUEtKuvA/edit?tab=t.0#heading=h.v3kpl8zcktok" title="">Tareas y criterios</a></p>
+<p><strong>Competencias específicas</strong><br />Competencia en conciencia y expresión cultural<br />Competencia digital<br />Competencia personal, social y de aprender a aprender</p>
+<p><strong>Saberes básicos</strong></p>
+<p>Uso de herramientas digitales sencillas<br />Elementos básicos del lenguaje visual (color, forma, composición)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777906156972-876p85brx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1XhOHVLadL_p8UJGnp_dZDoMGPXwiUbVVagSgUEtKuvA/edit?tab=t.0#heading=h.v3kpl8zcktok\" title=\"\">Tareas y criterios</a></p>\n<p><strong>Competencias específicas</strong><br />Competencia en conciencia y expresión cultural<br />Competencia digital<br />Competencia personal, social y de aprender a aprender</p>\n<p><strong>Saberes básicos</strong></p>\n<p>Uso de herramientas digitales sencillas<br />Elementos básicos del lenguaje visual (color, forma, composición)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbbrqv8-plent6t4a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información para el alumnado sobre protección de datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información para el alumnado sobre protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información para el alumnado sobre protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbbrqv8-plent6t4a</odePageId>
+      <odeBlockId>block-1777904036482-917vcgnzp</odeBlockId>
+      <blockName>Protección de datos personales y derechos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbbrqv8-plent6t4a</odePageId>
+          <odeBlockId>block-1777904036482-917vcgnzp</odeBlockId>
+          <odeIdeviceId>idevice-1777904036473-tuams5tvb</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777904036473-tuams5tvb" title="" href="{{context_path}}/content/resources/Protección de datos personales y derechos digitales.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Protección de datos personales y derechos digitales.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777904036473-tuams5tvb","img_0":{"img":"{{context_path}}/content/resources/Protección de datos personales y derechos digitales.png","thumbnail":"{{context_path}}/content/resources/Protección de datos personales y derechos digitales.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbbrqv9-wy41wgo02</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbbrqv9-wy41wgo02</odePageId>
+      <odeBlockId>block-1777904395694-6wdy1e6z1</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbbrqv9-wy41wgo02</odePageId>
+          <odeBlockId>block-1777904395694-6wdy1e6z1</odeBlockId>
+          <odeIdeviceId>idevice-1777904395692-yzc5pxu5f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La herramienta que voy a utilizar es un programa para pintar que se llama " Tux Paint"</p>
+<p> El producto final lo voy a realizar con tercero de primaria en Educación Artística. El objetivo es que los alumnos experimenten con este programa y hagan sus propias creaciones. Veremos vídeos explicativos de como usar las herramientas y tendremos tiempo de explorar el programa.</p>
+<p>Justificación: Es un programa ideal para los alumnos ya que pueden utilizar varias técnicas artísticas digitales. Es adecuado para su edad ya que es intuitiva, visual y sencilla. </p>
+<p>La idea es juntar varias de las creaciones y hacer un mural con Canva.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777904395692-yzc5pxu5f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La herramienta que voy a utilizar es un programa para pintar que se llama \" Tux Paint\"</p>\n<p> El producto final lo voy a realizar con tercero de primaria en Educación Artística. El objetivo es que los alumnos experimenten con este programa y hagan sus propias creaciones. Veremos vídeos explicativos de como usar las herramientas y tendremos tiempo de explorar el programa.</p>\n<p>Justificación: Es un programa ideal para los alumnos ya que pueden utilizar varias técnicas artísticas digitales. Es adecuado para su edad ya que es intuitiva, visual y sencilla. </p>\n<p>La idea es juntar varias de las creaciones y hacer un mural con Canva.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpbbrqv9-wy41wgo02</odePageId>
+      <odeBlockId>block-1778050870718-ki6b6895q</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbbrqv9-wy41wgo02</odePageId>
+          <odeBlockId>block-1778050870718-ki6b6895q</odeBlockId>
+          <odeIdeviceId>idevice-1778050870716-boqh78w6h</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778050870716-boqh78w6h" title="" href="{{context_path}}/content/resources/20260505_103550.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/20260505_103550.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778050870716-boqh78w6h","img_0":{"img":"{{context_path}}/content/resources/20260505_103550.jpg","thumbnail":"{{context_path}}/content/resources/20260505_103550.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbbrqva-4fc6v6le7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Dos herramientas de curación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Dos herramientas de curación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Dos herramientas de curación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbbrqva-4fc6v6le7</odePageId>
+      <odeBlockId>block-1777904756104-u2swgi6wr</odeBlockId>
+      <blockName>Padlet y Symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbbrqva-4fc6v6le7</odePageId>
+          <odeBlockId>block-1777904756104-u2swgi6wr</odeBlockId>
+          <odeIdeviceId>idevice-1777904756102-4x6hg2hd2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/anah8j/tux-paint-kdf68gu9stzd20kk" title="Curación Padlet para alumnado">https://padlet.com/anah8j/tux-paint-kdf68gu9stzd20kk</a> Contenidos a visualizar con el alumnado</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAA89w4OwAA41_W3NrZg==" title="Herramientas del profesor">https://www.symbaloo.com/shared/AAAAA89w4OwAA41_W3NrZg==</a> Herramientas utilizadas por el profesor</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777904756102-4x6hg2hd2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/anah8j/tux-paint-kdf68gu9stzd20kk\" title=\"Curación Padlet para alumnado\">https://padlet.com/anah8j/tux-paint-kdf68gu9stzd20kk</a> Contenidos a visualizar con el alumnado</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA89w4OwAA41_W3NrZg==\" title=\"Herramientas del profesor\">https://www.symbaloo.com/shared/AAAAA89w4OwAA41_W3NrZg==</a> Herramientas utilizadas por el profesor</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbbrqvb-fd4p4s375</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbbrqvb-fd4p4s375</odePageId>
+      <odeBlockId>block-1777905383901-tn6b1pj8n</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbbrqvb-fd4p4s375</odePageId>
+          <odeBlockId>block-1777905383901-tn6b1pj8n</odeBlockId>
+          <odeIdeviceId>idevice-1777905383900-a9cj3l1eb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Enlace a línea temporal:  </p>
+<p></p>
+<p><a href="https://www.canva.com/design/DAHID5975f4/wsngpklME3xvgSMeq0IVaA/view?utm_content=DAHID5975f4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8110296fc4" title="">Línea temporal</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777905383900-a9cj3l1eb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Enlace a línea temporal:  </p>\n<p></p>\n<p><a href=\"https://www.canva.com/design/DAHID5975f4/wsngpklME3xvgSMeq0IVaA/view?utm_content=DAHID5975f4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8110296fc4\" title=\"\">Línea temporal</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbbrqvb-ryn7q1gi9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbbrqvb-ryn7q1gi9</odePageId>
+      <odeBlockId>block-1777905539651-kzlp9lqm9</odeBlockId>
+      <blockName>Criterios</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbbrqvb-ryn7q1gi9</odePageId>
+          <odeBlockId>block-1777905539651-kzlp9lqm9</odeBlockId>
+          <odeIdeviceId>idevice-1777905539650-rqwr9r4hw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Enlace a documento de los criterios de evaluación</p>
+<p><a href="https://docs.google.com/document/d/1XhOHVLadL_p8UJGnp_dZDoMGPXwiUbVVagSgUEtKuvA/edit?tab=t.0#heading=h.v3kpl8zcktok" title="Criterios de Evaluación">https://docs.google.com/document/d/1XhOHVLadL_p8UJGnp_dZDoMGPXwiUbVVagSgUEtKuvA/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777905539650-rqwr9r4hw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Enlace a documento de los criterios de evaluación</p>\n<p><a href=\"https://docs.google.com/document/d/1XhOHVLadL_p8UJGnp_dZDoMGPXwiUbVVagSgUEtKuvA/edit?tab=t.0#heading=h.v3kpl8zcktok\" title=\"Criterios de Evaluación\">https://docs.google.com/document/d/1XhOHVLadL_p8UJGnp_dZDoMGPXwiUbVVagSgUEtKuvA/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbbrqvc-v4cipzsj2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbbrqvc-v4cipzsj2</odePageId>
+      <odeBlockId>block-1777905688342-0isb1jl28</odeBlockId>
+      <blockName>Instrumentos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbbrqvc-v4cipzsj2</odePageId>
+          <odeBlockId>block-1777905688342-0isb1jl28</odeBlockId>
+          <odeIdeviceId>idevice-1777905688341-uqtk0zzth</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1daznP4AfiO_1i9BbxgePXP4c65W9mSKPjfQ0JxcxFrI/edit?tab=t.0" title="">Evaluación del Alumnado</a></p>
+<p><a href="https://view.genially.com/69ef8722f6386f471c094d98" title="">Diana de Autoevaluación para alumnado</a></p>
+<p><a href="https://docs.google.com/document/d/1_eEsdi64n8JGDOdk3zXkiAJMn2zc-cPMaRhI03o_tnk/edit?tab=t.0" title="">Análisis instrumentos de evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777905688341-uqtk0zzth","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1daznP4AfiO_1i9BbxgePXP4c65W9mSKPjfQ0JxcxFrI/edit?tab=t.0\" title=\"\">Evaluación del Alumnado</a></p>\n<p><a href=\"https://view.genially.com/69ef8722f6386f471c094d98\" title=\"\">Diana de Autoevaluación para alumnado</a></p>\n<p><a href=\"https://docs.google.com/document/d/1_eEsdi64n8JGDOdk3zXkiAJMn2zc-cPMaRhI03o_tnk/edit?tab=t.0\" title=\"\">Análisis instrumentos de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbbrqvc-o72z5wlx3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbbrqvc-o72z5wlx3</odePageId>
+      <odeBlockId>block-1777907096013-24zpg34jr</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbbrqvc-o72z5wlx3</odePageId>
+          <odeBlockId>block-1777907096013-24zpg34jr</odeBlockId>
+          <odeIdeviceId>idevice-1777907096009-fb82fa1kc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong><br />Nombre: Ana Teresa Hobdell Martín<br />Centro educativo: Lope de Vega<br />Curso: 3º de Educación Primaria<br />Área: Educación Artística</p>
+<p><strong>Descripción del proyecto</strong><br />Este recurso educativo ha sido elaborado como una propuesta didáctica para el uso del programa Tux Paint en el área de Educación Artística en 3º de Educación Primaria.</p>
+<p>El proyecto tiene como finalidad desarrollar la creatividad, la expresión artística y la competencia digital del alumnado mediante actividades prácticas de dibujo digital.</p>
+<p><strong>Licencia de uso</strong></p>
+<p>Creative Commons</p>
+<p>Se permite el uso, adaptación y distribución del material siempre que no tenga fines comerciales y se cite la autoría original</p>
+<p>Descarga de archivo editable:</p>
+<p>https://raw.githubusercontent.com/anah8j/tuxpaint2/main/tuxpaint2.elpx<br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777907096009-fb82fa1kc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong><br />Nombre: Ana Teresa Hobdell Martín<br />Centro educativo: Lope de Vega<br />Curso: 3º de Educación Primaria<br />Área: Educación Artística</p>\n<p><strong>Descripción del proyecto</strong><br />Este recurso educativo ha sido elaborado como una propuesta didáctica para el uso del programa Tux Paint en el área de Educación Artística en 3º de Educación Primaria.</p>\n<p>El proyecto tiene como finalidad desarrollar la creatividad, la expresión artística y la competencia digital del alumnado mediante actividades prácticas de dibujo digital.</p>\n<p><strong>Licencia de uso</strong></p>\n<p>Creative Commons</p>\n<p>Se permite el uso, adaptación y distribución del material siempre que no tenga fines comerciales y se cite la autoría original</p>\n<p>Descarga de archivo editable:</p>\n<p>https://raw.githubusercontent.com/anah8j/tuxpaint2/main/tuxpaint2.elpx<br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpbbrqvc-o72z5wlx3</odePageId>
+      <odeBlockId>block-1778050690722-di89e333l</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbbrqvc-o72z5wlx3</odePageId>
+          <odeBlockId>block-1778050690722-di89e333l</odeBlockId>
+          <odeIdeviceId>idevice-1778050690721-kop09m63j</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Tux Paint con 3ero de Primaria</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este trabajo trata del uso de Tux Paint en  la asignatura de Educación Artística para tercero de primaria.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ana Teresa Hobdell</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
